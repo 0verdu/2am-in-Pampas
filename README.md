@@ -187,7 +187,7 @@ All diagnostic files captured from iPhone after network reset:
 
 ## 🔍 Analysis Summary
 
-### What We Know 
+### What Is Known
 
 - Device in SOS mode (no cellular service, WiFi only)
 - Cellular data confirmed: **0 bytes** (WiFi connections only)
